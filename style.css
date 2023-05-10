@@ -1,0 +1,48 @@
+body{
+    overflow-x: hidden;
+    background-color: black;
+}
+.land{
+    display: flex;
+} 
+a{
+    color: white;
+    text-decoration: none;
+    margin: 40px;
+    margin-right: 30px;
+}
+nav,a:hover{
+  color: blue; 
+}
+.mypic{
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+} 
+.heading1{
+    margin-left: 30%;
+    color: white;
+} 
+.land{
+    display: flex;
+    gap: 60px;
+}
+.page{
+    color: white;
+}
+.pic{
+    margin-bottom: 30%;
+}
+.p{
+    color: white;
+    font-size: 40px;
+    margin-top: 30px; 
+}
+.ion{
+    color: white;
+}
+.two{
+    display:flex;
+    gap: 70px;
+}
+
